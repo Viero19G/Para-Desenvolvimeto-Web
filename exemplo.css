@@ -1,0 +1,78 @@
+
+body {
+    background-color: plum;
+  }
+  
+  h1 {
+    color:rgb(77, 0, 70);
+    text-align: center;
+    align-items: center;
+
+    
+  }
+  
+  p {
+    padding: 20px;
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+    color:rgb(175, 24, 150);
+  }
+ a{ font-family: verdana;
+    font-size: 20px;
+    text-align: left;
+    color:whitesmoke;
+    float:center;
+     
+ }
+ h2 {
+  color:rgb(77, 0, 70);
+    text-align: left;
+  }
+  div.teste2{
+    float: center;
+    text-align: center;
+    align-content: center;
+    background-color: plum;
+    padding-left: 20%;
+    padding-right: 20%;
+
+  }
+  nav{background-color:plum;
+    float: center;
+    
+
+  }
+  a:link, a:visited {
+    background-color:plum;
+    color: black;
+    border: 2px solid purple;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: purple;
+    color: white;
+  }
+.Colum{
+  float: center;
+  width: 35%;
+  padding: 25px;
+
+}
+img{
+  padding: 25px;
+}
+#nav1{
+  padding-right: 2%;
+  padding-left: 2%;
+  background-color: plum;
+}
+div{
+  border-style: hidden;
+  border-radius: 5px;
+  border-color: red;
+}
